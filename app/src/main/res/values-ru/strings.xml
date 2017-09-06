@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Модель проекта</string>
+    <string name="action_settings">Настройки</string>
+    <string name="add_new_project">Добавить новый проект</string>
+    <string name="dialog_add">Добавить</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="name_project_dialog">Название проекта</string>
+    <string name="title_activity_details_project">Детали проекта</string>
+    <string name="stages_for_spinner">Этапы:</string>
+    <string name="add_previous_stage">Добавить зависимый этап</string>
+    <string name="add_new_stage">Добавить новый этап</string>
+    <string name="responsible_stage">Исполнитель этапа</string>
+    <string name="name_stage">Название этапа</string>
+    <string name="duration_stage">Продолжительность этапа</string>
+    <string name="responsible">Исполнитель:</string>
+    <string name="duration">Продолжительность:</string>
+    <string name="edit_stage">Редактирование этапа</string>
+    <string name="stages">Этапы</string>
+    <string name="model">Модель</string>
+    <string name="cost_stage">Стоимость этапа</string>
+    <string name="cost">Стоимость:</string>
+    <string name="cost_project">Стоимость проекта:&#160;</string>
+</resources>
